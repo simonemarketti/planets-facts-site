@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/planets-facts-site/static/css/main.fcd6ca2e.css",
+    "main.js": "/planets-facts-site/static/js/main.62793f9a.js",
+    "static/js/787.4ad92a3c.chunk.js": "/planets-facts-site/static/js/787.4ad92a3c.chunk.js",
+    "static/media/background-stars.svg": "/planets-facts-site/static/media/background-stars.f6233a6a8d2351c57f2b.svg",
+    "static/media/logo.svg": "/planets-facts-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/planets-facts-site/index.html",
+    "main.fcd6ca2e.css.map": "/planets-facts-site/static/css/main.fcd6ca2e.css.map",
+    "main.62793f9a.js.map": "/planets-facts-site/static/js/main.62793f9a.js.map",
+    "787.4ad92a3c.chunk.js.map": "/planets-facts-site/static/js/787.4ad92a3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcd6ca2e.css",
+    "static/js/main.62793f9a.js"
+  ]
+}
