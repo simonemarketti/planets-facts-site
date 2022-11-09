@@ -1,4 +1,4 @@
-# Weather Now app
+# Planets facts App
 
 ## Overview
 
